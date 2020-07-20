@@ -18,6 +18,6 @@ Some basic operations are performed on several images.
                 14. BHPF (Butterworth High Pass filter)
                 15. GHPF (Guassian High Pass filter)
                 
-Platform : MATLAB R2018a 
+Platform : MATLAB R2018a,
 operating System : windows (64 bit)
                 
